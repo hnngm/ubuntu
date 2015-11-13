@@ -3,7 +3,7 @@ FROM ubuntu:14.04
 #  dfasfasf
 MAINTAINER hnngm
 #  dsafasf
-ADD github.com/hnngm/ubuntu/sources.list /etc/apt/
+ADD sources.list /etc/apt/
 #  dsafas
 RUN apt-get update
 #  dasfasdf
