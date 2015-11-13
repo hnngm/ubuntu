@@ -8,6 +8,8 @@ ADD sources.list /etc/apt/
 RUN apt-get update
 #  dasfasdf
 RUN apt-get install -y vim
+# wget
+RUN apt-get install -y wget
 #jdk1.7
 RUN mkdir /usr/local/soft
 RUN cd /usr/local/soft
