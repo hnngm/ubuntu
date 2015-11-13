@@ -1,6 +1,6 @@
 #ubuntu-jdk1.7
-CMD echo 基于 ubuntu:14.04  构建
 FROM ubuntu:14.04
+CMD echo 基于 ubuntu:14.04  构建
 #  作者 hnngm@163.com
 CMD echo 作者 hnngm@163.com
 MAINTAINER hnngm@163.com
